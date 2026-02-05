@@ -5,3 +5,4 @@ Lab: Lab 0 – Environment Setup
 
 This repository contains laboratory works for the course
 Computer Modeling and Simulation (F.CSA304).
+nan
